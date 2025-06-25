@@ -2,6 +2,9 @@
 
 _Tao_: a "symmetric" drum machine capable of both synthesizing audio waveforms from sequencer parameters as well as inferring sequencer parameters from audio waveforms.
 
+## Note 2025/06/26
+We are currently working on upgrading the expressiveness of _Tao_ - 16-step sequencer instead of 8-step + velocity parameter estimation. Code to be released in August.
+
 ## Installation
 
 
@@ -15,6 +18,6 @@ We use [Freesound One-Shot Percussive Sounds](https://paperswithcode.com/dataset
 ### Training
 
 
-# Funding
+## Funding
 
 This work is funded by UK Research and Innovation [grant number EP/S022694/1] as part of the “UKRI Centre for Doctoral Training in Artificial Intelligence and Music”.
