@@ -1,6 +1,6 @@
-# Implementation of the drum machine of Tao ([Tao](https://red-x-silver.github.io/the-drum-machine-of-tao/))
+# Implementation of [the drum machine of Tao ☯︎](https://red-x-silver.github.io/the-drum-machine-of-tao/)
 
-Tao: a "symmetric" drum machine capable of both synthesizing audio waveforms from sequencer parameters as well as inferring sequencer parameters from audio waveforms.
+_Tao_: a "symmetric" drum machine capable of both synthesizing audio waveforms from sequencer parameters as well as inferring sequencer parameters from audio waveforms.
 
 ## Installation
 
